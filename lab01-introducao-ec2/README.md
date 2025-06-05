@@ -39,8 +39,8 @@ Recursos removidos para evitar custos
 📷 Prints
 
 Os prints foram salvos localmente como evidência de conclusão do lab.
-[Lab 1 part 1](./prints/Lab%201%20part%201.png.pdf)  
-[Lab part 2](./prints/Lab%20part%202.png.pdf)
+[Lab 1 part 1](./Lab%201%20part%201.png.pdf)  
+[Lab part 2](./Lab%20part%202.png.pdf)
 
 
 🔐 Observação
