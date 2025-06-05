@@ -12,5 +12,10 @@ Essa prática é fundamental para evitar surpresas na fatura e manter o controle
 - Registro visual (prints) do orçamento configurado, para comprovação.
 
 ---
+## Print do Orçamento Criado
+
+Abaixo está o print da tela mostrando o orçamento diário configurado na AWS, com meu nome visível para comprovação da execução do laboratório.
+
+![Print do orçamento](./Lab%2002.png.pdf)
 
 
