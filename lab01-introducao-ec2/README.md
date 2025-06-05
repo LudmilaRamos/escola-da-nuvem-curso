@@ -39,6 +39,9 @@ Recursos removidos para evitar custos
 📷 Prints
 
 Os prints foram salvos localmente como evidência de conclusão do lab.
+[Lab 1 part 1](./prints/Lab%201%20part%201.png.pdf)  
+[Lab part 2](./prints/Lab%20part%202.png.pdf)
+
 
 🔐 Observação
 Nenhum material da Escola da Nuvem foi publicado aqui. Esta documentação representa meu aprendizado e execução prática.
