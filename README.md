@@ -7,7 +7,7 @@ Este repositório contém os laboratórios realizados durante o curso da **Escol
 | Nº  | Nome                                              | Status     |
 |-----|---------------------------------------------------|------------|
 | 01  | [Introdução ao Amazon EC2](./lab01-introducao-ec2)| ✅ Concluído |
-| 02  | Nome do próximo lab                               | 🔄 Em andamento |
+| 02  | Controle de Gastos na AWS                         | ✅ Concluído   |
 
 ---
 
