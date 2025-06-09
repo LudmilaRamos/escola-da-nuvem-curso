@@ -1,6 +1,8 @@
 # ☁️ Escola da Nuvem - Laboratórios AWS
 
-Este repositório contém os laboratórios realizados durante o curso da **Escola da Nuvem**, com foco em computação em nuvem utilizando a **AWS**.
+Este repositório contém os laboratórios práticos realizados durante o curso da **Escola da Nuvem**, como parte do **treinamento preparatório para a certificação AWS Certified Developer – Associate**.
+
+O foco dos laboratórios é o desenvolvimento de aplicações e soluções em nuvem utilizando serviços da AWS, com ênfase em arquitetura serverless, automação, boas práticas de segurança e integração de serviços.
 
 📚 Laboratórios
 
