@@ -25,6 +25,23 @@ Essa abordagem permite controlar o ciclo de vida da aplicação com segurança e
 - Testes realizados nos endpoints para garantir o comportamento esperado em cada ambiente.
 
 ## 🖼️ Prints do Laboratório
+## 🖼️ Prints do Laboratório
+
+### Lambda
+
+- ![Versão inicial dev](Lab06-versao-inicial-dev.png)
+- ![Versão e Aliases](Lab06-versão-e-alias.png)
+- ![Teste no Lambda](Lab06-teste-no-lambda.png)
+
+### API Gateway
+
+- ![Stages no API Gateway](Lab06-stages-ApiGatway.png)
+
+### Testes nos endpoints
+
+- ![Endpoint /dev](Lab06-endpoint-dev.png)
+- ![Endpoint /prod](Lab06-endpoit-prod.png)
+- ![Teste prod v1](lab06-teste-prod-v1.png)
 
 
 ## Aprendizados e Desafios
