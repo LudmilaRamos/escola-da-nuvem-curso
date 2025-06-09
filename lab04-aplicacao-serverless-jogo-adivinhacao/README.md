@@ -4,10 +4,10 @@ Neste laboratório, aprendi a criar e gerenciar uma aplicação serverless na AW
 
 ## Objetivos
 
-- Desenvolver uma função Lambda em Python com a lógica do jogo
-- Criar uma API RESTful usando Amazon API Gateway para expor a função Lambda
-- Publicar um frontend estático no Amazon S3 para interação com o usuário
-- Conectar o frontend à API Gateway, permitindo chamadas à função Lambda
+- Desenvolver uma função Lambda em Python com a lógica do jogo  
+- Criar uma API RESTful usando Amazon API Gateway para expor a função Lambda  
+- Publicar um frontend estático no Amazon S3 para interação com o usuário  
+- Conectar o frontend à API Gateway, permitindo chamadas à função Lambda  
 
 ## O que foi feito
 
@@ -15,12 +15,27 @@ Neste laboratório, aprendi a criar e gerenciar uma aplicação serverless na AW
 2. Configurada a API Gateway com rotas, integrações e CORS para comunicação entre frontend e backend  
 3. Desenvolvido e personalizado o site estático (index.html), com meu nome ao lado de “Escola da Nuvem💙”  
 4. Realizado upload do site no bucket S3 com acesso público e ativada a hospedagem de site estático  
-5. Testada a integração completa para garantir o funcionamento da aplicação serverless
+5. Testada a integração completa para garantir o funcionamento da aplicação serverless  
 
 ## 🖼️ Prints do Laboratório
 
+### Função Lambda  
+![Função Lambda](Lab04-lambda.png)
+
+### Configuração da API Gateway  
+![API Gateway](LAb04-API.png)
+
+### Bucket S3 e Política de Acesso  
+![Bucket S3](Lab4-bucket.png)  
+![Política do Bucket](Lab4-politica-bucket.png)
+
+### Hospedagem do Site Estático  
+![Hospedagem do Site](Lab04-hospedagem-do-site-estático.png)
+
+### Interface do Jogo no Navegador  
+![Interface do Jogo](Lab04-site.png)
 
 ## Aprendizados e Desafios
 
 Neste laboratório, consolidei meu entendimento sobre arquitetura serverless, especialmente a integração entre Lambda, API Gateway e S3.  
-Aprendi a configurar CORS para permitir comunicação entre frontend e backend, além de realizar a publicação de um site estático na AWS.  
+Aprendi a configurar CORS para permitir comunicação entre frontend e backend, além de realizar a publicação de um site estático na AWS.
