@@ -27,9 +27,12 @@ Este laboratório prático apresenta a criação de uma aplicação serverless u
 
 ## Prints
 
-### Página do site do Lab 11
 
-![site](lab11-site.png)
+
+### Página do site 
+
+![Lab11-site](Lab11-site.png)
+
 
 
 
