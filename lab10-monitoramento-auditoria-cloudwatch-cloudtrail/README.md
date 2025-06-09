@@ -25,6 +25,11 @@ Configurar um ambiente de monitoramento e auditoria que permita:
 
 ## Prints
 
+![Alarme CPU - CloudWatch](lab10-alarme.png)
+
+![Notificação SNS](lab10-sns-msg.png)
+
+
 
 ## Conclusão
 
