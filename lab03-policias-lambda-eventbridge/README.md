@@ -10,7 +10,7 @@ Foi criado um fluxo onde uma função Lambda em Python, associada a uma polític
 - Desenvolvimento de uma função Lambda em Python para executar essa ação.
 - Associação da política à função Lambda.
 - Configuração do gatilho via EventBridge para execução automática da função.
-- Registro visual com prints das políticas, função Lambda e configuração do gatilho.
+- Registro visual com prints das políticas, função Lambda e IAM.
 
 ---
 
