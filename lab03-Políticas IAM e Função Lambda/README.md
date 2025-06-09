@@ -16,13 +16,11 @@ Foi criado um fluxo onde uma função Lambda em Python, associada a uma polític
 
 # 🖼️ Prints do Laboratório
 
-# Lab 03 - Políticas IAM e Função Lambda
+### Políticas IAM
+![Política IAM](politica-IAM.png)
 
-## Políticas IAM
-![Política IAM](lab03-Politicas-IAM-e-Funcao-Lambda/Captura-de-tela-politica-IAM.png)
+### Função IAM
+![Função IAM](Função-IAM.png)
 
-## Função IAM
-![Função IAM](lab03-Politicas-IAM-e-Funcao-Lambda/Captura-de-tela-Funcao-IAM.png)
-
-## Lambda
-![Lambda](lab03-Politicas-IAM-e-Funcao-Lambda/Captura-lambda.png)
+### Lambda
+![Lambda](lambda.png)
