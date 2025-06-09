@@ -1,7 +1,7 @@
-# Lab 09 - Amazon S3 Básico, Avançado e Acesso a Logs
+# Lab09 - Amazon S3 Básico, Avançado e Acesso a Logs
 
 ## Descrição
-Neste laboratório prático, aprendeu-se a utilizar os principais recursos do Amazon S3 voltados à organização, segurança e gerenciamento eficiente de dados. Foram aplicadas práticas recomendadas para criação de buckets com configurações seguras, controle de versões de arquivos, automação de regras de ciclo de vida e geração de URLs pré-assinadas para compartilhamento temporário e seguro de objetos. Além disso, foi ativado e configurado o servidor de logs de acesso, utilizando um segundo bucket dedicado ao armazenamento dos registros de operação.
+Neste laboratório prático, aprendi a utilizar os principais recursos do Amazon S3 voltados à organização, segurança e gerenciamento eficiente de dados. Foram abordadas práticas recomendadas para criação de buckets com configurações seguras, controle de versões de arquivos, automação de regras de ciclo de vida e geração de URLs pré-assinadas para compartilhamento temporário e seguro de objetos. Também foi demonstrada a ativação e configuração do servidor de logs de acesso, utilizando um segundo bucket dedicado ao armazenamento dos registros de operação.
 
 ## Passos para Conclusão do Laboratório
 - Criar buckets no Amazon S3 com configurações recomendadas de segurança.
@@ -18,7 +18,21 @@ Neste laboratório prático, aprendeu-se a utilizar os principais recursos do Am
 - Ativar e consultar logs de acesso utilizando um segundo bucket.
 
 ## Cenário
-Gerenciar o armazenamento na nuvem garantindo que os dados estejam organizados, seguros e com custos otimizados. Aplicar práticas recomendadas de versionamento, automação de regras de armazenamento e monitoramento de acessos no Amazon S3 para oferecer maior controle, rastreabilidade e eficiência no uso dos recursos.
+Gerenciar o armazenamento na nuvem da empresa de forma organizada, segura e com custos otimizados, utilizando o Amazon S3. Aplicar práticas recomendadas como versionamento de objetos, automação de regras de ciclo de vida, monitoramento de acessos e geração de URLs pré-assinadas para compartilhamento seguro.
 
 ## Prints
-- (Aqui serão colocados os prints das telas do console AWS, CLI, configurações e logs)
+
+### Criação de Buckets
+![Buckets](lab09-buckets.png)
+
+### Controle de Versões
+![Versionamento](lab09-versionamento-bucket.png)
+
+### Configuração de Regras de Ciclo de Vida
+![Ciclo de Vida](lab09-ciclo-de-vida.png)
+
+### Ativação e Consulta de Logs de Acesso
+![Registro de Logs](lab09-reg-log.png)
+
+## Conclusão
+O laboratório proporcionou um entendimento prático sobre o uso do Amazon S3 para gerenciamento seguro e eficiente de dados. A criação de buckets com configurações recomendadas, o versionamento de objetos e a automação por meio de regras de ciclo de vida permitem uma gestão otimizada do armazenamento. A geração de URLs pré-
