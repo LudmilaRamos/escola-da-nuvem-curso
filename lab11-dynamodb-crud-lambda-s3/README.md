@@ -29,3 +29,13 @@ Este laboratório prático apresenta a criação de uma aplicação serverless u
 Construir uma aplicação web simples de cadastro de produtos. O frontend estático é hospedado em um bucket do Amazon S3, enquanto as requisições de criação, leitura, atualização e exclusão são processadas por uma função AWS Lambda que interage diretamente com uma tabela DynamoDB. As chamadas da aplicação passam por um endpoint exposto no API Gateway, e o monitoramento da solução é realizado via Amazon CloudWatch.
 
 
+## Prints
+
+![Aplicação Web Funcionando](lab11-site.png)
+
+
+## Conclusão
+
+Este laboratório proporcionou uma visão prática sobre a construção de aplicações serverless na AWS, integrando diversos serviços gerenciados. Ao implementar uma solução completa com Amazon DynamoDB, AWS Lambda, API Gateway e interface web hospedada no Amazon S3, foi possível entender como orquestrar esses serviços de forma coesa e escalável. Além disso, a utilização do Amazon CloudWatch permitiu garantir o monitoramento e a observabilidade da aplicação. Essa abordagem demonstra como é possível criar soluções modernas, resilientes e com baixo custo operacional na nuvem.
+
+
