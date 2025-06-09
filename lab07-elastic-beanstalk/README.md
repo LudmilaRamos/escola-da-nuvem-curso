@@ -25,12 +25,10 @@ Neste laboratório, é demonstrado como implantar uma aplicação web utilizando
 Implantar e configurar rapidamente uma aplicação web na AWS, garantindo que a infraestrutura esteja corretamente configurada, com permissões adequadas para gerenciamento e atualizações, permitindo que a aplicação seja facilmente gerenciada e monitorada. O AWS Elastic Beanstalk é a ferramenta escolhida para automatizar a maior parte desse processo.
 
 ## Prints do Laboratório
-- ![IAM Role](prints/Lab07-IAM-Role.png)
-- ![IAM Role - detalhe](prints/Lab07-IAM-Role.1.png)
-- ![Ambiente Elastic Beanstalk](prints/Lab07-ambiente-elastic-beanstalk.png)
-- ![Elastic Beanstalk Geral](prints/Lab07-Elastic-Beanstalk.png)
-
-
+- Lab07-IAM-Role.png  
+- Lab07-IAM-Role.1.png  
+- Lab07-ambiente-elastic-beanstalk.png  
+- Lab07-Elastic-Beanstalk.png  
 
 
 ## Conclusão
