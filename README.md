@@ -8,7 +8,7 @@ Este repositório contém os laboratórios realizados durante o curso da **Escol
 |-----|---------------------------------------------------|------------|
 | 01  | [Introdução ao Amazon EC2](./lab01-introducao-ec2)| ✅ Concluído |
 | 02  |[Controle de Gastos na AWS](./lab02-controle-de-gastos)| ✅ Concluído   |
-| 03  | [Políticas IAM e Função Lambda](./lab03-politicas-iam-e-funcao-lambda)  | 🔄 Em andamento
+| 03  | [Políticas IAM e Função Lambda](./lab03-politicas-iam-e-funcao-lambda)  | ✅ Concluído 
 
 ---
 
