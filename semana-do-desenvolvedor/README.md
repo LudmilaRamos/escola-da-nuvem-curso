@@ -6,3 +6,14 @@ Ao longo das quatro aulas que compõem este laboratório, construímos uma arqui
 Esta solução serverless e desacoplada utiliza serviços-chave da AWS, como Lambda, API Gateway, SQS, EventBridge, SNS, S3, DynamoDB, IAM e CloudWatch, oferecendo uma visão prática e integrada de desenvolvimento em nuvem.
 
 Os desafios enfrentados ao longo do laboratório proporcionam um aprendizado valioso, reforçando as boas práticas e o domínio dos serviços AWS.
+
+## Prints da Implementação
+
+![API Gateway](Semana-do-Desenvolvedor/APi-Gatway.png)  
+*Configuração do endpoint no API Gateway para receber os pedidos.*
+
+![AWS Lambda](Semana-do-Desenvolvedor/Lambda-validação-S3.png)  
+*Função Lambda de pré-validação configurada para processar os pedidos antes de enviá-los para a fila SQS.*
+
+![CloudWatch Logs](Semana-do-Desenvolvedor/CLoudWatch.png)  
+*Logs da execução da função Lambda visualizados no CloudWatch para monitoramento e troubleshooting.*
