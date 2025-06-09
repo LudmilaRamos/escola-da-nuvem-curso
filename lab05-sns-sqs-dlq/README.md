@@ -23,8 +23,18 @@ Neste laboratório, aprendi a criar um fluxo de mensagens desacoplado utilizando
 7. Simulado o envio de mensagens para a DLQ.
 
 ## Cenário
-Estamos desenvolvendo uma aplicação baseada em microsserviços. Um serviço (publicador) precisa notificar outros serviços (assinantes) sobre eventos de forma assíncrona e resiliente.
+
+Desenvolvendo uma aplicação baseada em microsserviços. Um serviço (publicador) precisa notificar outros serviços (assinantes) sobre eventos de forma assíncrona e resiliente.
 
 ## 🖼️ Prints do Laboratório
 
+### Filas SQS (Principal e DLQ)  
+![Filas SQS](Lab05-filas-sqs-(pricipal-dlq).png)
+
+### Tópico SNS  
+![Tópico SNS](Lab05-tópico-sns.png)
+
+## Aprendizados e Desafios
+
+Neste laboratório, consolidei meu entendimento sobre a integração entre SNS e SQS, a importância das Dead-Letter Queues para garantir a resiliência do sistema e como construir arquiteturas desacopladas e tolerantes a falhas.
 
