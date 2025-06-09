@@ -10,18 +10,12 @@ Os desafios enfrentados ao longo do laboratório proporcionam um aprendizado val
 
 ## Prints da Implementação
 
-![API Gateway](semana-do-desenvolvedor/APi-Gatway.png)  
+![API Gateway](APi-Gatway.png)
 *Configuração do endpoint no API Gateway para receber os pedidos.*
 
-![AWS Lambda](semana-do-desenvolvedor/Lambda-validação-S3.png)  
+![AWS Lambda](Lambda-validação-S3.png)
 *Função Lambda de pré-validação configurada para processar os pedidos antes de enviá-los para a fila SQS.*
 
-![CloudWatch Logs](semana-do-desenvolvedor/CLoudWatch.png)  
+![CloudWatch Logs](CLoudWatch.png)
 *Logs da execução da função Lambda visualizados no CloudWatch para monitoramento e troubleshooting.*
 
-
-![Lab11-site](Lab11-site.png)
-
-![API Gateway](APi-Gatway.png)
-![AWS Lambda](Lambda-validação-S3.png)
-![CloudWatch Logs](CLoudWatch.png)
