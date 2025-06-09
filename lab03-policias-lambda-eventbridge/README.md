@@ -16,3 +16,8 @@ Foi criado um fluxo onde uma função Lambda em Python, associada a uma polític
 
 # 🖼️ Prints do Laboratório
 
+![Lab03-1.png](Lab03-1.png)
+
+![lab03-02.png](lab03-02.png)
+
+![lab03-3.png](lab03-3.png)
