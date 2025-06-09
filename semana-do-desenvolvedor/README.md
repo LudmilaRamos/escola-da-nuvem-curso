@@ -7,14 +7,6 @@ Esta solução serverless e desacoplada utiliza serviços-chave da AWS, como Lam
 
 Os desafios enfrentados ao longo do laboratório proporcionam um aprendizado valioso, reforçando as boas práticas e o domínio dos serviços AWS.
 
-## Prints da Implementação
-
-
-
-![API Gateway](semana-do-desenvolvedor/APi-Gatway.png)  
-![AWS Lambda](semana-do-desenvolvedor/Lambda-validação-S3.png)  
-![CloudWatch Logs](semana-do-desenvolvedor/CLoudWatch.png)  
-
 
 ## Prints da Implementação
 
@@ -26,3 +18,10 @@ Os desafios enfrentados ao longo do laboratório proporcionam um aprendizado val
 
 ![CloudWatch Logs](semana-do-desenvolvedor/CLoudWatch.png)  
 *Logs da execução da função Lambda visualizados no CloudWatch para monitoramento e troubleshooting.*
+
+
+![Lab11-site](Lab11-site.png)
+
+![API Gateway](APi-Gatway.png)
+![AWS Lambda](Lambda-validação-S3.png)
+![CloudWatch Logs](CLoudWatch.png)
