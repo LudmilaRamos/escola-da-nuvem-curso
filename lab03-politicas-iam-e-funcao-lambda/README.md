@@ -15,3 +15,11 @@ Foi criado um fluxo onde uma função Lambda em Python, associada a uma polític
 ---
 
 # 🖼️ Prints do Laboratório
+### Política IAM
+![Política IAM](politica-IAM.png)
+
+### Função Lambda
+![Função Lambda](lambda.png)
+
+### Função IAM (exemplo)
+![Função IAM](Função-IAM.png)
