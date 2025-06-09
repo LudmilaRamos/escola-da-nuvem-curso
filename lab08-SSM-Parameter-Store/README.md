@@ -19,6 +19,9 @@ Neste laboratório prático, aprendi a criar e gerenciar parâmetros utilizando 
 Criar e gerenciar configurações e segredos de uma aplicação, como URLs de banco de dados e senhas, de forma segura utilizando o AWS Systems Manager Parameter Store. A proteção dos parâmetros sensíveis será feita com chaves de criptografia gerenciadas pelo AWS KMS. O acesso aos parâmetros será realizado via AWS CLI no CloudShell.
 
 ## Prints
+- ![Parâmetros no console SSM](Lab08-parâmetros.png)
+- ![Chave KMS criada](Lab08-chave_KMS.png)
+- ![Acesso via CloudShell AWS CLI](CloudShell.png)
 
 ---
 
