@@ -19,7 +19,7 @@ O foco dos laboratórios é o desenvolvimento de aplicações e soluções em nu
 | 09  | [Amazon S3 Básico e Avançado + Logs](lab09-amazon-s3-basico-avancado-logs) | ✅ Concluído |
 | 10  | [Monitoramento e Auditoria com CloudWatch e CloudTrail](lab10-monitoramento-auditoria-cloudwatch-cloudtrail) | ✅ Concluído |
 | 11  | [DynamoDB CRUD com Lambda, API Gateway e S3](lab11-dynamodb-crud-lambda-s3) | ✅ Concluído |
-| 12  | [Semana do Desenvolvedor AWS - Ingestão e Processamento de Pedidos](semana-do-desenvolvedor/README.md) | 🟡 Em andamento |
+| 12  | [Semana do Desenvolvedor AWS - Ingestão e Processamento de Pedidos](semana-do-desenvolvedor/README.md) | ✅ Concluído  |
 
 
 
